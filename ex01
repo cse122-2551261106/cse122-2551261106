@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="background-color: cornsilk">
+    <div style="text-align: center">
+      <h1 style="color: crimson; background-color: pink">BỐN MÙA</h1>
+      <div style="font-style: italic">
+        <pre style="color: blue">
+        Xuân về hoa nở khắp trời
+    Hạ sang nắng cháy rạng ngời phố quen
+        Thu về lá rụng bên thềm
+        </pre>
+        <hr color="blue" />
+        <pre style="color: red">
+    Đông sang gió lạnh bên em đợi chờ
+        Bốn mùa là bốn giấc mơ
+    Thời gian đi mãi ta chờ đợi ai
+        </pre>
+        <hr color="blue" />
+
+        <pre style="color: blue">
+        Một năm rồi lại một năm
+    Vẫn còn câu hát thì thầm quê hương
+        Chờ xuân nắng mới soi đường
+        </pre>
+      </div>
+    </div>
+  </body>
+</html>
